@@ -1,0 +1,11 @@
+.cards{
+    background-color:rgb(150, 190, 150);
+
+}
+#list{
+    display: flex;
+    justify-content: space-evenly;
+    width: 40%;
+    height: 80px;
+
+}
